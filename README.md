@@ -5,7 +5,7 @@
 🤼 **Wrestler for Roanoke College**
 
 ## About Me
-I'm currently pursuing a degree in **Data Science** at Roanoke College, where I’m also a student-athlete. My academic journey has equipped me with a solid foundation in **data science, machine learning, and statistics**, while wrestling under Coach Nate Yetzer has instilled discipline, teamwork, and resilience.
+I'm currently pursuing a degree in **Data Science** at Roanoke College, where I’m also a student-athlete. My academic journey has equipped me with a solid foundation in **data science, machine learning, and statistics**, while wrestling under Coach Nate Yetzer has instilled discipline and resilience.
 
 ## What I'm Learning:
 - **Programming Languages**: Python, C++, SQL  
