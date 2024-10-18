@@ -10,7 +10,7 @@ I'm currently pursuing a degree in **Data Science** at Roanoke College, where Iâ
 ## What I'm Learning:
 - **Programming Languages**: Python, C++, SQL  
 - **Statistics & Data Analysis**: R Studio, Simple & Multiple Linear Regression  
-- **Machine Learning**: Basics of predictive modeling and analysis  
+- **Machine Learning**: Predictive modeling and analysis  
 
 ## Goals
 - Achieve **ODAC All-Academic** as a student-athlete.
