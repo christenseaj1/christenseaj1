@@ -1,6 +1,8 @@
 ## 👋 Hi, I'm Andrew Christensen!
 🎓 Student Athlete at Roanoke College
+
 🧠 Studying Data Science with a concentration in Statistics
+
 🤼 Wrestler for Roanoke College
 
 ## About Me
