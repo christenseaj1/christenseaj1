@@ -5,7 +5,7 @@
 🤼 **Wrestler for Roanoke College**
 
 ## About Me
-I'm currently pursuing a degree in **Data Science** at Roanoke College, where I’m also a proud student-athlete. My academic journey has equipped me with a solid foundation in **data science, machine learning, and statistics**, while my experience in sports has instilled discipline, teamwork, and resilience.
+I'm currently pursuing a degree in **Data Science** at Roanoke College, where I’m also a student-athlete. My academic journey has equipped me with a solid foundation in **data science, machine learning, and statistics**, while my experience in sports has instilled discipline, teamwork, and resilience.
 
 ## What I'm Learning:
 - **Programming Languages**: Python, C++, SQL  
