@@ -18,4 +18,5 @@ I'm currently pursuing a degree in **Data Science** at Roanoke College, where Iâ
 - Pursue a career in **data science**, particularly in **financial data analysis** for stock firms.
 
 ## Connect With Me
-I'm always open to collaboration and new opportunities. Let's connect and explore how data can shape the future!
+I'm always open to collaboration and new opportunities. 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](linkedin.com/in/andrew-christensen-603996317)
