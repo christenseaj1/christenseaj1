@@ -13,9 +13,8 @@ I'm currently pursuing a degree in **Data Science** at Roanoke College. My acade
 - **Machine Learning**: Predictive modeling and analysis  
 
 ## Goals
-- Achieve **ODAC All-Academic** as a student-athlete.
 - Complete multiple data science projects and master data analysis techniques.
-- Pursue a career in **data science**, particularly in **financial data analysis** for stock firms.
+- Pursue a career in **data science**, particularly in **financial data analysis**.
 
 ## Connect With Me
 - I'm always open to collaboration and new opportunities. 
