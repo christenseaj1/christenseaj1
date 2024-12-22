@@ -2,7 +2,7 @@
 
 🎓 **Student at Roanoke College**  
 🧠 **Studying Data Science** with a concentration in Statistics  
-🤼 **Wrestler for Roanoke College**
+🤼 **Wrestled for Roanoke College**
 
 ## About Me
 I'm currently pursuing a degree in **Data Science** at Roanoke College. My academic journey continues to equip me with a solid foundation in **data science, machine learning, and statistics**, while have wrestled under Coach Nate Yetzer has instilled discipline and resilience.
